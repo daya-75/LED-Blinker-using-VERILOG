@@ -1,3 +1,4 @@
+//this verilog code is for 2Hz blinking
 module clk_divider_2Hz (
     input wire clk,
     input wire rst,
