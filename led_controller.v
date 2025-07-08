@@ -5,7 +5,7 @@ module led_controller(
     input wire tick, // from clk_divider
     output reg led
 );
-    reg led_on; // whether LED should blink or stay off
+    reg led_on; 
 
     always @(posedge clk or posedge rst) begin
         if (rst) begin
