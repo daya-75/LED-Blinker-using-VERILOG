@@ -5,9 +5,8 @@ module tb_led_top;
     wire led;
 
     // Generate clock
-    always #1_000_000 clk = ~clk; // 100 MHz clock (adjust as needed)
+    always #1_000_000 clk = ~clk; 
 
-    // DUT
     led_top uut (
         .clk(clk),
         .rst(rst),
