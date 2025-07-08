@@ -4,12 +4,11 @@ module debouncer (
     input wire noisy_in,
     output reg clean_out
 );
-    parameter STABLE_COUNT = 3; // adjust for your clock
+    parameter STABLE_COUNT = 3; //ADJUST ACCORDING TO THE PREFERED CLOCK
 
     reg [16:0] count;
     reg sync_0, sync_1;
 
-    // Double flip-flop synchronizer
     always @(posedge clk) begin
         sync_0 <= noisy_in;
         sync_1 <= sync_0;
