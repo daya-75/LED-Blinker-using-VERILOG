@@ -27,7 +27,7 @@ the below images represents the achematic and block diagrams of the system:
 ![Screenshot 2025-07-08 213533](https://github.com/user-attachments/assets/696bbc64-8180-4e1a-a2a8-1640e4ebe1f1)
 
 --CLOCK PULSE->
-![Screenshot 2025-07-08 214223](https://github.com/user-attachments/assets/53041562-2270-412f-b7fa-c994b2f94bff)
+![image](https://github.com/user-attachments/assets/05041609-5da5-407b-8493-6b400e891635)
 
 --LED RESPONSE->
 ![Screenshot 2025-07-08 214321](https://github.com/user-attachments/assets/7dff6bac-8827-4aa5-bdc9-814d58260cac)
