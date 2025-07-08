@@ -20,7 +20,8 @@ the below images represents the achematic and block diagrams of the system:
 ![Screenshot 2025-07-08 202116](https://github.com/user-attachments/assets/9b2b1f9d-2cfb-4b84-9f4a-a221b3c735c3)
 
 
---- A FEW SCREENSHOTS OF THE WAVEFORMS WHICH REPRESENTS THE INITIAL FORM, CLOCK PULSE AND THE LED TICK/BLINK RESPONSE ---
+
+-- A FEW SCREENSHOTS OF THE WAVEFORMS WHICH REPRESENTS THE INITIAL FORM, CLOCK PULSE AND THE LED TICK/BLINK RESPONSE --
 
 --INITIAL FORM->
 ![Screenshot 2025-07-08 213533](https://github.com/user-attachments/assets/696bbc64-8180-4e1a-a2a8-1640e4ebe1f1)
